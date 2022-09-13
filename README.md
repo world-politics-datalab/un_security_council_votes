@@ -10,5 +10,26 @@ This file summarizes the total number of resolutions adopted and vetoed from 194
 - **vetoed**: the number of vetoed draft resolutions.
 - **vetoes**: the number of total vetoes issued during the year. It is important to note that while one veto blocks the adoption of a draft resolution. Sometimes multiple members issue a veto. 
 
-##
+## summary_unsc_1992_2021.csv
+
+This file summarizes different statistics of UN Security Council's meetings and voting practices from 1992-2021.
+
+- **year**:
+- **meetings**:
+- **pres_statements**:
+- **communique**:
+- **notes_pres*:
+- **letters_pres*:
+- **unanimous_passed**:
+- **perc_unanimous**:
+- **failed_votes**:
+- **chapter7**:
+- **vetoed**:
+- **perc_vetoed**:
+- **closed_meetings**:
+- **no_outcome**:
+- **perc_closed_meets**:
+- **perc_no_outcomes**:
+- **passed_w_neg_votes**:
+- **total_votes**:
 
