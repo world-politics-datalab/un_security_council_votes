@@ -18,8 +18,8 @@ This file summarizes different statistics of UN Security Council's meetings and 
 - **meetings**:
 - **pres_statements**:
 - **communique**:
-- **notes_pres*:
-- **letters_pres*:
+- **notes_pres**:
+- **letters_pres**:
 - **unanimous_passed**:
 - **perc_unanimous**:
 - **failed_votes**:
