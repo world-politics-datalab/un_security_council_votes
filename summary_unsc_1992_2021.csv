@@ -1,4 +1,4 @@
-year,meetings,pres_statements,communique,notes_pres,letters_pres,resolutions,unanimous_passed,perc_unanimous,failed_votes,chapter7,vetoed,perc_vetoed,closed_meetings,no_outcome,perc_closed_meets,perc_no_outcomes,passed_w_neg_votes,total votes
+year,meetings,pres_statements,communique,notes_pres,letters_pres,resolutions,unanimous_passed,perc_unanimous,failed_votes,chapter7,vetoed,perc_vetoed,closed_meetings,no_outcome,perc_closed_meets,perc_no_outcomes,passed_w_neg_votes,total_votes
 1994,165,75,0,,,75,60,80.0%,0,24,1,1.3%,0,18,0.0%,10.9%,16,76
 1995,136,58,0,,,63,55,87.3%,0,19,1,1.6%,0,14,0.0%,10.3%,9,64
 1996,117,47,1,,,55,47,85.5%,0,9,0,0.0%,1,16,0.9%,13.7%,8,55
